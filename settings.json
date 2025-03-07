@@ -1,0 +1,36 @@
+{
+    "telemetry.telemetryLevel": "off",
+
+    "workbench.startupEditor": "none",
+    "workbench.settings.editor": "json",
+    "workbench.settings.openDefaultSettings":false,
+    "workbench.settings.useSplitJSON": false,
+    "workbench.iconTheme": "ayu",
+    "workbench.colorTheme": "Monokai",
+
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 15,
+    "editor.minimap.enabled": false,
+    "editor.quickSuggestionsDelay": 100,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "ms-python.black-formatter",
+
+    "zenMode.centerLayout": false,
+    "zenMode.fullScreen": false,
+    "zenMode.hideLineNumbers": false,
+    "zenMode.showTabs": "multiple",
+
+    "python.defaultInterpreterPath": "~\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+
+    "code-runner.executorMap": {
+        "python": "$pythonPath -u $fullFileName" 
+    },
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.showExecutionMessage": false,
+    "code-runner.runInTerminal": true,
+
+    "git.autofetch": true,
+
+    
+    
+}
