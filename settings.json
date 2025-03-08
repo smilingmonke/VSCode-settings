@@ -9,7 +9,7 @@
     "workbench.colorTheme": "Monokai",
 
     "editor.fontFamily": "JetBrains Mono",
-    "editor.fontSize": 15,
+    "editor.fontSize": 17,
     "editor.minimap.enabled": false,
     "editor.quickSuggestionsDelay": 100,
     "editor.formatOnSave": true,
