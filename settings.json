@@ -9,11 +9,12 @@
     "workbench.colorTheme": "Monokai",
 
     "editor.fontFamily": "JetBrains Mono",
-    "editor.fontSize": 17,
-    "editor.minimap.enabled": false,
+    "editor.fontSize": 16,
     "editor.quickSuggestionsDelay": 100,
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnType": true,
+    "editor.formatOnPaste": true,
 
     "zenMode.centerLayout": false,
     "zenMode.fullScreen": false,
@@ -31,6 +32,8 @@
     "code-runner.runInTerminal": true,
 
     "git.autofetch": true,
+    "git.confirmSync": false,
+    "editor.minimap.enabled": false,
 
     
     
